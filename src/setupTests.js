@@ -3,6 +3,12 @@
 // expect(element).toHaveTextContent(/reactimpoty/i)
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
+toHaveTextContent
+import '@testing-library/jest-dom/expect';
+import 'whatwg-fetch';
+
+
+
 
 
 
